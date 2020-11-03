@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the component 1`] = `
+<div
+  className="header"
+>
+  <AttachMoneyIcon
+    style={
+      Object {
+        "color": "white",
+      }
+    }
+  />
+  <span
+    className="title"
+  >
+    Registrar Funcionario - Tabelas e cálculos do IRRF
+  </span>
+</div>
+`;

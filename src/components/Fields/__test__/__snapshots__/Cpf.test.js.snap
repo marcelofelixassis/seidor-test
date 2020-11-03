@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the component 1`] = `
+<InputElement
+  disabled={false}
+  mask="999.999.999-99"
+  maskChar={false}
+  name="teste"
+  onChange={[MockFunction]}
+  value="123"
+/>
+`;

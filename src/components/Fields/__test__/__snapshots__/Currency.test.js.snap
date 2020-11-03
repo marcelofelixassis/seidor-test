@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test currency input basic snapshot render 1`] = `
+<NumberFormat
+  allowEmptyFormatting={false}
+  allowLeadingZeros={false}
+  allowNegative={true}
+  decimalScale={2}
+  decimalSeparator=","
+  displayType="input"
+  fixedDecimalScale={true}
+  inputMode={
+    <input
+      name="teste"
+    />
+  }
+  isAllowed={[Function]}
+  isNumericString={false}
+  onBlur={[Function]}
+  onChange={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onMouseUp={[Function]}
+  onValueChange={[Function]}
+  placeholder="R$ 0,00"
+  prefix="R$ "
+  suffix=""
+  thousandSeparator="."
+  thousandsGroupStyle="thousand"
+  type="text"
+  value="123"
+/>
+`;
+
+exports[`renders the component 1`] = `
+<NumberFormat
+  allowEmptyFormatting={false}
+  allowLeadingZeros={false}
+  allowNegative={true}
+  decimalScale={2}
+  decimalSeparator=","
+  displayType="input"
+  fixedDecimalScale={true}
+  inputMode={
+    <input
+      name="teste"
+    />
+  }
+  isAllowed={[Function]}
+  isNumericString={false}
+  onBlur={[Function]}
+  onChange={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onMouseUp={[Function]}
+  onValueChange={[Function]}
+  placeholder="R$ 0,00"
+  prefix="R$ "
+  suffix=""
+  thousandSeparator="."
+  thousandsGroupStyle="thousand"
+  type="text"
+  value="123"
+/>
+`;
